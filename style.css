@@ -1,0 +1,75 @@
+body{
+    background: url('./isaac-sloman-1381888-unsplash.jpg') no-repeat center fixed;
+    background-size: cover;
+  
+}
+
+.top ul {
+    
+    list-style-type: none;
+    margin: 0;
+    padding:0;
+}
+
+.top ul li {
+    float: right
+}
+
+.top ul li a {
+display: block;
+color: white;
+text-align: center;
+padding: 0px 16px;
+text-decoration: none;
+}
+
+.top ul li a:hover {
+background-color: #528;
+
+}
+
+.logo{
+    margin-left: 80px;
+    margin-top: 30px;
+    font-weight: bolder;
+}
+
+
+h1{
+padding-top:140px;
+padding-left: 110px;
+
+}
+
+p{
+    margin-top: -24px;
+    margin-bottom: 18px;    
+padding-left: 110px;
+}
+
+.ull{
+    display: block;
+    float: left;
+    color: white;
+    padding: 20px 18px;
+    margin-right: 8px;
+    background-color: greenyellow;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    margin-left: 110px;
+    
+    
+}
+.tin{
+    display: block;
+    float: left;
+    color: white;
+    padding: 20px 18px;
+    margin-right: 8px;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    
+
+}
